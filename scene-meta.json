@@ -1,0 +1,16 @@
+{
+  "id": "beat-saber-scene",
+  "name": "Beat Saber Scene",
+  "description": "Exported from embedded Flutter VisMan demo scene \"beat-saber-scene\".",
+  "tags": [
+    "beat",
+    "saber",
+    "scene"
+  ],
+  "source": "flutter-embedded-demo",
+  "generatedAt": "2026-02-23T08:11:45.557246Z",
+  "sceneFile": "visman.json",
+  "objectCount": 12,
+  "hasPhysics": true,
+  "has3D": true
+}
